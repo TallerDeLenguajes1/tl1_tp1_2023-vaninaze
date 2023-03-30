@@ -10,4 +10,4 @@
 
 #Archivos a ignorar: 
 # Executables
-.exe
+*.exe
