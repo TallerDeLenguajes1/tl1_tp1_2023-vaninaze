@@ -7,3 +7,5 @@ Estamos evitando que se procese en el control de versiones todo el contenido de 
 La línea:
   *.exe
 evita que el sistema de control de versiones procese todos los archivos con extension .exe,#
+# Executables
+*.exe
