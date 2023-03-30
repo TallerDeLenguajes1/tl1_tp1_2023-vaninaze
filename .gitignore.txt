@@ -1,0 +1,9 @@
+#Dentro del archivo .gitignore se coloca texto plano, con todas las carpetas 
+que quiero que Git ignore, así como los archivos.
+
+Por ejemplo, si indicamos la línea
+  carpeta/
+Estamos evitando que se procese en el control de versiones todo el contenido de la carpeta "carpeta". 
+La línea:
+  *.exe
+evita que el sistema de control de versiones procese todos los archivos con extension .exe,#
